@@ -50,8 +50,6 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/p_Cop
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'), 
     0)
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
-
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Home'))
