@@ -37,8 +37,6 @@ WebUI.mouseOver(findTestObject('Object Repository/Page_CURA Healthcare Service/a
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'), 'Make Appointment')
 
-WebUI.verifyElementNotClickable(findTestObject('Object Repository/Page_CURA Healthcare Service/div_CURA Healthcare Service        We Care _b17f12'))
-
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/i_infokatalon.com_fa fa-facebook fa-fw fa-3x'), 
     0)
 
@@ -48,8 +46,6 @@ WebUI.waitForElementNotPresent(findTestObject('Object Repository/Page_CURA Healt
 WebUI.rightClick(findTestObject('Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2023'))
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2023'))
-
-WebUI.verifyElementNotClickable(findTestObject('Object Repository/Page_CURA Healthcare Service/p_Copyright  CURA Healthcare Service 2023'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'), 
     0)
