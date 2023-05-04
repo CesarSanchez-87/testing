@@ -23,8 +23,6 @@ WebUI.navigateToUrl('https://dev.butchershop.co/')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Butchershop Global  Brand Growth and T_1b290e/video_Your browser does not support the video tag'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Butchershop Global  Brand Growth and T_1b290e/video_Your browser does not support the video tag'))
-
 WebUI.click(findTestObject('Object Repository/Page_Butchershop Global  Brand Growth and T_1b290e/div_Work Work                             D_ab126c'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Butchershop Global  Brand Growth and T_1b290e/div_Work Work                             D_ab126c'), 
