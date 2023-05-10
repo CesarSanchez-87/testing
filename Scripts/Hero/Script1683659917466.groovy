@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Page_Butchershop Global/video_full_screen'))
 
 WebUI.click(findTestObject('Page_Butchershop Global/button_Accept'))
 
-WebUI.takeScreenshotAsCheckpoint('home_screenshot')
+WebUI.takeScreenshotAsCheckpoint('home_screenshot.png')
 
 WebUI.closeBrowser()
 
