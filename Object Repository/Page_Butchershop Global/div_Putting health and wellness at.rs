@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Putting health and wellness at</name>
+   <tag></tag>
+   <elementGuidId>af682d94-83e5-45dc-bb45-fb2ce8e13477</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/section[3]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.work-item.grid-x</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b97da3ce-5477-470b-bd84-9157aae93c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>work-item grid-x</value>
+      <webElementGuid>9ff73771-34ff-4a04-8a2c-952d12f539d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Putting health and wellness at the center of culture.    Your browser does not support the video tag.  Real Chemistry Transformation</value>
+      <webElementGuid>39efe58c-a24d-49e9-b0dd-b5f46418a80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/section[@class=&quot;work-showcase allow-overflow grid-container is-show&quot;]/div[@class=&quot;works-container animated-text is-show&quot;]/div[@class=&quot;split-child&quot;]/div[@class=&quot;work-cases&quot;]/div[@class=&quot;work-item grid-x&quot;]</value>
+      <webElementGuid>988e2ed5-079d-4e31-b64a-a7da4848b87f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/section[3]/div/div[2]/div/div</value>
+      <webElementGuid>11e295d8-4a25-4e6d-9298-a82fe1614bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⁾'])[1]/following::div[6]</value>
+      <webElementGuid>0efeb649-11e3-4ec8-a1ab-88605e5e30fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⁽'])[1]/following::div[6]</value>
+      <webElementGuid>f8a5c90a-12c0-4ef7-b2e6-a01a41290cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div[2]/div/div</value>
+      <webElementGuid>6d928082-6bd6-4dcf-bff9-2c657a19267d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Putting health and wellness at the center of culture.    Your browser does not support the video tag.  Real Chemistry Transformation' or . = 'Putting health and wellness at the center of culture.    Your browser does not support the video tag.  Real Chemistry Transformation')]</value>
+      <webElementGuid>3c2ddcbb-55d1-47ee-9d30-f9058592e753</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

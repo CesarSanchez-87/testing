@@ -21,15 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dev.butchershop.co/')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Butchershop Global  Brand Growth and T_1b290e/video_Your browser does not support the video tag'))
+WebUI.waitForElementVisible(findTestObject('Page_Butchershop Global/video_no_full_screen'), 5)
 
-WebUI.click(findTestObject('Object Repository/Page_Butchershop Global  Brand Growth and T_1b290e/div_Work Work                             D_ab126c'))
+WebUI.verifyElementVisible(findTestObject('Page_Butchershop Global/video_no_full_screen'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Butchershop Global  Brand Growth and T_1b290e/div_Work Work                             D_ab126c'), 
-    0)
+WebUI.verifyElementClickable(findTestObject('Page_Butchershop Global/video_no_full_screen'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Butchershop Global  Brand Growth and T_1b290e/p_Discover 30 brand, strategy, content and _bedd73'), 
-    'Discover +30 brand, strategy, content and digital projects')
+WebUI.click(findTestObject('Page_Butchershop Global/video_no_full_screen'))
+
+WebUI.waitForElementPresent(findTestObject('Page_Butchershop Global/video_no_full_screen'), 5)
+
+WebUI.click(findTestObject('Page_Butchershop Global/video_full_screen'))
+
+WebUI.click(findTestObject('Page_Butchershop Global/button_Accept'))
+
+WebUI.takeScreenshotAsCheckpoint('home_screenshot')
 
 WebUI.closeBrowser()
 

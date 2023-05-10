@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Butchershop</name>
+   <tag></tag>
+   <elementGuidId>925a49e0-22d0-42df-bf9c-866769bbfea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content']/nav/div/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.large-4.menu-logo.show-for-large</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a7cb6d6e-1aab-4d08-882d-e3d29e4642d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col large-4 menu-logo show-for-large</value>
+      <webElementGuid>d8437ce6-1ff5-48b1-82d9-cde1faaff799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Butchershop</value>
+      <webElementGuid>4402917c-03b3-45e8-a431-9e4b841a10cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content&quot;)/nav[1]/div[@class=&quot;show-for-large navigation loaded is-homepage bg-dark&quot;]/div[@class=&quot;grid-x nav-items-container&quot;]/div[@class=&quot;col large-4 menu-logo show-for-large&quot;]</value>
+      <webElementGuid>2bee54e5-6ef2-4410-a6d0-4ca6ac87e91f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content']/nav/div/div[3]/div</value>
+      <webElementGuid>c27dee9c-7654-4e6b-b76c-58c746d2784b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEAT FAILURE REPORT 2022'])[2]/following::div[2]</value>
+      <webElementGuid>9691ee7d-1636-460f-a484-b15a3756c32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEAT FAILURE REPORT 2022'])[1]/following::div[2]</value>
+      <webElementGuid>10692ee2-81bb-4f47-93df-227e47905034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work'])[1]/preceding::div[1]</value>
+      <webElementGuid>04cff6c6-7be7-4d8f-accd-bc370c7784d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div</value>
+      <webElementGuid>6b61684e-76f3-4270-b006-9b63c9a47b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Butchershop' or . = ' Butchershop')]</value>
+      <webElementGuid>e5c101a7-d157-4c8e-9d4b-dec79e7868e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

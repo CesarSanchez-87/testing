@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Work Work                             D_ab126c</name>
+   <name>Cookies_banner</name>
    <tag></tag>
-   <elementGuidId>393da763-938d-4945-be8c-c2e2eea210f8</elementGuidId>
+   <elementGuidId>771ef73c-d6a0-4b9c-a95f-8beb55c36e75</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.header-container</value>
+         <key>XPATH</key>
+         <value>//main[@id='app']/div[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='page-content']/section[3]/div/div</value>
+         <key>CSS</key>
+         <value>div.cookie-banner.display</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,76 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>52d4382e-2a92-49d6-8dd0-438e36524c18</webElementGuid>
+      <webElementGuid>e3c5b23c-2f2c-443a-99c9-794c66d95ece</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>header-container</value>
-      <webElementGuid>5093bdef-be64-445e-af80-5ffd3996e372</webElementGuid>
+      <value>cookie-banner display</value>
+      <webElementGuid>4fdc1b7d-30ab-41ae-a498-08ba1d87d247</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Work⁽⁾ Work⁽⁾ 
-                            Discover +30 brand, strategy, content and digital projects 
-                        </value>
-      <webElementGuid>f790a2b7-7614-42ae-a5f4-06ed2240097d</webElementGuid>
+      <value>This website uses cookies to improve your experience. We’ll assume you’re ok with this, but you can opt-out if you wish. Accept Reject</value>
+      <webElementGuid>68b2104f-5326-4591-b031-555dda30f1c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;page-content&quot;)/section[@class=&quot;work-showcase allow-overflow grid-container&quot;]/div[@class=&quot;works-container&quot;]/div[@class=&quot;header-container&quot;]</value>
-      <webElementGuid>311b4d7a-3eb9-493a-9279-405e391090d5</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;cookie-banner display&quot;]</value>
+      <webElementGuid>28d89b78-ccfd-4856-8ef6-52286a1bf819</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='page-content']/section[3]/div/div</value>
-      <webElementGuid>2bc27b89-76d9-400e-8f86-f59de48dcf1e</webElementGuid>
+      <value>//main[@id='app']/div[3]</value>
+      <webElementGuid>7a5705b4-a8d7-4a5a-892f-e159e6799ff2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='asdasd'])[3]/following::div[2]</value>
-      <webElementGuid>568feb1f-1b66-478a-8ec3-6204e8c59f6a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Services &amp; Privacy Policy'])[1]/following::div[5]</value>
+      <webElementGuid>3b19a22e-cae4-491e-b49d-72602f0fc9e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='asdasd'])[2]/following::div[5]</value>
-      <webElementGuid>7a38714a-cfcf-42e3-946b-77b90e1a5452</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clutch'])[1]/following::div[5]</value>
+      <webElementGuid>d0912a16-f61e-4f77-b174-da041d6965c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section[3]/div/div</value>
-      <webElementGuid>1b54a037-18ac-4911-be0e-2d2a06b19713</webElementGuid>
+      <value>//div[3]</value>
+      <webElementGuid>6d2fac10-bcb5-440c-b219-99938d9c55cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Work⁽⁾ Work⁽⁾ 
-                            Discover +30 brand, strategy, content and digital projects 
-                        ' or . = 'Work⁽⁾ Work⁽⁾ 
-                            Discover +30 brand, strategy, content and digital projects 
-                        ')]</value>
-      <webElementGuid>958a4c23-2053-426e-8f68-abdaa3f54911</webElementGuid>
+      <value>//div[(text() = 'This website uses cookies to improve your experience. We’ll assume you’re ok with this, but you can opt-out if you wish. Accept Reject' or . = 'This website uses cookies to improve your experience. We’ll assume you’re ok with this, but you can opt-out if you wish. Accept Reject')]</value>
+      <webElementGuid>47f62b1b-cbe3-454d-a3fb-812133969fdf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

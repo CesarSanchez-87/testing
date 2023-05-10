@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>video_Your browser does not support the video tag</name>
+   <name>video_no_full_screen</name>
    <tag></tag>
-   <elementGuidId>ab02b8ab-f9d1-4cd4-9000-51144e2d5e60</elementGuidId>
+   <elementGuidId>bb717a48-6b22-41b9-93da-9236afb61f1c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>video</value>
-      <webElementGuid>bd1f45ca-e846-4fd8-89f7-efd15826a418</webElementGuid>
+      <webElementGuid>fc742bda-14eb-4164-a0c3-0638cb9db183</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>preload</name>
       <type>Main</type>
       <value>metadata</value>
-      <webElementGuid>77968b1d-bd26-4368-8145-4dd6e8d25be5</webElementGuid>
+      <webElementGuid>ab31b1ed-1b8e-43cc-be6b-3f50c32fa299</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-label</name>
       <type>Main</type>
       <value>watch</value>
-      <webElementGuid>60be9570-577e-4004-97d5-d7e2dd77b6e1</webElementGuid>
+      <webElementGuid>30fe016f-f86b-4bc2-a880-6850ea1577bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autoplay</name>
       <type>Main</type>
       <value>autoplay</value>
-      <webElementGuid>2636e343-68d9-4081-8bc2-19e9fce6fd03</webElementGuid>
+      <webElementGuid>a31802f2-7798-4c23-abaf-e176d21ba25d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>muted</name>
       <type>Main</type>
       <value>muted</value>
-      <webElementGuid>66eaadb3-7a33-4810-86fe-f8c8151de9b4</webElementGuid>
+      <webElementGuid>e127a25b-18fc-4da6-b20c-16eb193aaa5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>loop</name>
       <type>Main</type>
       <value>loop</value>
-      <webElementGuid>d571d5d5-b013-43e5-ac78-bc95707a5de4</webElementGuid>
+      <webElementGuid>82b1fd8e-f9da-4480-9a4a-7299cce03125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>poster</name>
       <type>Main</type>
       <value>/assets/hero-video-preview-image-1674579414.jpg</value>
-      <webElementGuid>1d4459f4-00ca-4aad-b86d-fd6e87d2b551</webElementGuid>
+      <webElementGuid>39795081-9807-4e20-a7d6-888524bfa881</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/assets/bc-reel-10sec-web-desktop-FINAL.mp4</value>
-      <webElementGuid>5b681ebc-8075-446b-a695-0b3882f1b69a</webElementGuid>
+      <webElementGuid>832aae9e-0031-4e71-a308-0a031c45b948</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>class</name>
       <type>Main</type>
       <value>video-preview with-custom-cursor cursor-by-progress-scroll</value>
-      <webElementGuid>01d20a42-5de6-4b65-892d-14513b59eda9</webElementGuid>
+      <webElementGuid>625f277a-9e5d-4d06-bdb1-160f3e992a01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -96,7 +96,7 @@
       <value>
                 Your browser does not support the video tag.
             </value>
-      <webElementGuid>9231302d-b520-4032-8792-f8a21f50924d</webElementGuid>
+      <webElementGuid>8bc06acd-1d0b-4a44-a21a-6627b73e107a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-content&quot;)/section[@class=&quot;hero&quot;]/div[1]/div[2]/div[@class=&quot;pin-spacer&quot;]/div[@class=&quot;h-screen&quot;]/video[@class=&quot;video-preview with-custom-cursor cursor-by-progress-scroll&quot;]</value>
-      <webElementGuid>435dffa3-c5c8-4ede-a6ee-0c42fb7f7a4c</webElementGuid>
+      <webElementGuid>a3cf7f18-77d4-44db-98ea-f8373c4296a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-content']/section/div/div[2]/div/div/video</value>
-      <webElementGuid>bdd28573-e571-4ec4-b449-99111750c35b</webElementGuid>
+      <webElementGuid>da3e55b4-d4f7-44db-9440-3dbad8a45978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch'])[1]/following::video[1]</value>
-      <webElementGuid>05863a23-1cf7-41d1-966d-b31137efa9d6</webElementGuid>
+      <webElementGuid>a2655b7d-d20b-4dd8-b761-f5ec0d23192f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support the video tag.'])[1]/following::video[1]</value>
-      <webElementGuid>ce61653e-bea8-4b38-9fcd-615b9cecd9e6</webElementGuid>
+      <webElementGuid>3dda8f26-1d3d-4fa9-a21d-6c8d285546e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Titleas'])[1]/preceding::video[1]</value>
-      <webElementGuid>2273967b-a4bf-4051-b889-92101caa1f89</webElementGuid>
+      <webElementGuid>24fea95a-885d-4577-9c8e-2e9ff8fc49e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,7 +144,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='– Butchershop® Global is a'])[1]/preceding::video[1]</value>
-      <webElementGuid>f78c2699-0b75-44f9-811b-d63a3ddbc63f</webElementGuid>
+      <webElementGuid>ff2e30fe-caab-43eb-b2d9-b24a0631a337</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -152,7 +152,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/video</value>
-      <webElementGuid>4da16bf5-c86d-4649-b5f4-b766b7718f2f</webElementGuid>
+      <webElementGuid>e65b9698-d852-48fd-b6ab-a58c8b13cef8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -164,6 +164,6 @@
             ' or . = '
                 Your browser does not support the video tag.
             ')]</value>
-      <webElementGuid>d49c0e63-e285-4915-99b8-ec0aced81381</webElementGuid>
+      <webElementGuid>a052bf38-ac8b-48ab-a89a-58f386074b86</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
